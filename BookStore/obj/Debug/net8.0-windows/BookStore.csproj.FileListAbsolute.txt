@@ -1,0 +1,406 @@
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\BookStore.exe
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\BookStore.deps.json
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\BookStore.runtimeconfig.json
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\BookStore.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\BookStore.pdb
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.csproj.AssemblyReference.cache
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.Form1.resources
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.csproj.GenerateResource.cache
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.AssemblyInfoInputs.cache
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.AssemblyInfo.cs
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.csproj.CopyComplete
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\refint\BookStore.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.pdb
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.genruntimeconfig.cache
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\ref\BookStore.dll
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.SideBar.resources
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.Books.resources
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.BookDetails.resources
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.CreateBook.resources
+C:\Users\CyanDH\Desktop\Ejad Solution Task\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.UpdateBook.resources
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\BookStore.exe
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\BookStore.deps.json
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\BookStore.runtimeconfig.json
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\BookStore.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\BookStore.pdb
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.csproj.AssemblyReference.cache
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.BookDetails.resources
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.Books.resources
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.CreateBook.resources
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.UpdateBook.resources
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.csproj.GenerateResource.cache
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.AssemblyInfoInputs.cache
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.AssemblyInfo.cs
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.csproj.Up2Date
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\refint\BookStore.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.pdb
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.genruntimeconfig.cache
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\ref\BookStore.dll
+C:\Users\youse\OneDrive\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.Properties.Resources.resources
+C:\Users\dell\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.dll
+C:\Users\dell\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\refint\BookStore.dll
+C:\Users\dell\Desktop\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.pdb
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\BookStore.exe
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\BookStore.deps.json
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\BookStore.runtimeconfig.json
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\BookStore.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\BookStore.pdb
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Humanizer.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\FCAI\Second Year\BookStore\BookStore\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.csproj.AssemblyReference.cache
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.BookDetails.resources
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.Books.resources
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.CreateBook.resources
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.Properties.Resources.resources
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.UpdateBook.resources
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.csproj.GenerateResource.cache
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.AssemblyInfoInputs.cache
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.AssemblyInfo.cs
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.csproj.CoreCompileInputs.cache
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.csproj.Up2Date
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.dll
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\refint\BookStore.dll
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.pdb
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\BookStore.genruntimeconfig.cache
+D:\FCAI\Second Year\BookStore\BookStore\obj\Debug\net8.0-windows\ref\BookStore.dll
