@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\Books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookStore\\Books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|d:\\fcai\\second year\\database\\assignments\\bookstore\\bookstore\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookStore\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|d:\\fcai\\second year\\database\\assignments\\bookstore\\bookstore\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\UpdateBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookStore\\UpdateBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|d:\\fcai\\second year\\database\\assignments\\bookstore\\bookstore\\createbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\createbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\CreateBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookStore\\CreateBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|d:\\fcai\\second year\\database\\assignments\\bookstore\\bookstore\\data\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\data\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\Data\\AppContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookStore\\Data\\AppContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\bookstore\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\bookstore\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bookstore\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\bookstore\\createbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\createbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\bookstore\\createbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bookstore\\createbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\bookstore\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\bookstore\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bookstore\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\bookstore\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bookstore\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\bookstore\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{613EF0E2-2A3E-42AC-8933-65CC47C61543}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,20 +45,12 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\Program.cs",
-              "RelativeDocumentMoniker": "BookStore\\Program.cs",
-              "ToolTip": "D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\Program.cs",
-              "RelativeToolTip": "BookStore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T19:56:25.188Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UpdateBook.cs",
               "DocumentMoniker": "D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\UpdateBook.cs",
               "RelativeDocumentMoniker": "BookStore\\UpdateBook.cs",
@@ -81,14 +69,14 @@
               "RelativeDocumentMoniker": "BookStore\\Books.cs",
               "ToolTip": "D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\Books.cs",
               "RelativeToolTip": "BookStore\\Books.cs",
-              "ViewState": "AgIAADUAAADAYmZmZmYPwD4AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAADgvz4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T19:56:23.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CreateBook.cs",
               "DocumentMoniker": "D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\CreateBook.cs",
               "RelativeDocumentMoniker": "BookStore\\CreateBook.cs",
@@ -101,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AppContext.cs",
               "DocumentMoniker": "D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\Data\\AppContext.cs",
               "RelativeDocumentMoniker": "BookStore\\Data\\AppContext.cs",
@@ -113,18 +101,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Books.cs [Design]",
               "DocumentMoniker": "D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\Books.cs",
               "RelativeDocumentMoniker": "BookStore\\Books.cs",
-              "ToolTip": "D:\\FCAI\\Second Year\\BookStore\\BookStore\\Books.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\BookStore\\BookStore\\Books.cs [Design]",
+              "ToolTip": "D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\Books.cs [Design] [Read Only]",
+              "RelativeToolTip": "BookStore\\Books.cs [Design] [Read Only]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T16:28:35.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "CreateBook.cs [Design]",
               "DocumentMoniker": "D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\CreateBook.cs",
               "RelativeDocumentMoniker": "BookStore\\CreateBook.cs",
@@ -135,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "UpdateBook.cs [Design]",
               "DocumentMoniker": "D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\UpdateBook.cs",
               "RelativeDocumentMoniker": "BookStore\\UpdateBook.cs",
@@ -146,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "BookDetails.cs [Design]",
               "DocumentMoniker": "D:\\FCAI\\Second Year\\DataBase\\Assignments\\BookStore\\BookStore\\BookDetails.cs",
               "RelativeDocumentMoniker": "BookStore\\BookDetails.cs",
